@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191225988763",
+    "firebase_url": "https://fir-loginandregistration-94b2c.firebaseio.com",
+    "project_id": "fir-loginandregistration-94b2c",
+    "storage_bucket": "fir-loginandregistration-94b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191225988763:android:f624c6554691dc0c",
+        "android_client_info": {
+          "package_name": "com.example.loginandregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191225988763-4uakni3qp746chnrdjjmle15tt4l50ve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginandregistration",
+            "certificate_hash": "e3ebfa3d6381552a27d07ab18d904fa56e668a0f"
+          }
+        },
+        {
+          "client_id": "191225988763-8b7nu5oi3vr0quk9tbhe2haun36pakee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhRCYUs4sePlQp-o5Q9qQ-ksa0CgIPsvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191225988763-8b7nu5oi3vr0quk9tbhe2haun36pakee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
